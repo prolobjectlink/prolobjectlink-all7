@@ -118,41 +118,41 @@
 		<!-- <module>../prolobjectlink-cpi</module> -->
 
 		<!-- Java Prolog Enterprise -->
-		<module>../prolobjectlink-jpe</module>
+		<!-- <module>../prolobjectlink-jpe</module> -->
 
 		<!-- Prolobjectlink Java Prolog Interface -->
-		<module>../prolobjectlink-jpi</module>
+		<!-- <module>../prolobjectlink-jpi</module> -->
 		<module>../prolobjectlink-jpi-jpl7</module>
 		<module>../prolobjectlink-jpi-jpl7-swi7</module>
 
 		<!-- Prolobjectlink Java Persistence Provider -->
-		<module>../prolobjectlink-jpp</module>
-		<module>../prolobjectlink-jpp-jpl7-swi7</module>
+		<!-- <module>../prolobjectlink-jpp</module> -->
+		<!-- <module>../prolobjectlink-jpp-jpl7-swi7</module> -->
 
-		<!-- Prolobjectlink Access Data Object -->
-		<module>../prolobjectlink-pado-linux</module>
-		<module>../prolobjectlink-pado-linux-x86</module>
-		<module>../prolobjectlink-pado-linux-x86-x64</module>
-		<module>../prolobjectlink-pado-macosx</module>
-		<module>../prolobjectlink-pado-macosx-x86</module>
-		<module>../prolobjectlink-pado-macosx-x86-x64</module>
-		<module>../prolobjectlink-pado-win32</module>
-		<module>../prolobjectlink-pado-win32-x86</module>
-		<module>../prolobjectlink-pado-win32-x86-x64</module>
+		<!-- Prolobjectlink Knowledge Base Server -->
+		<!-- <module>../prolobjectlink-kbs-linux</module> -->
+		<!-- <module>../prolobjectlink-kbs-linux-x86</module> -->
+		<!-- <module>../prolobjectlink-kbs-linux-x86-x64</module> -->
+		<!-- <module>../prolobjectlink-kbs-macosx</module> -->
+		<!-- <module>../prolobjectlink-kbs-macosx-x86</module> -->
+		<!-- <module>../prolobjectlink-kbs-macosx-x86-x64</module> -->
+		<!-- <module>../prolobjectlink-kbs-win32</module> -->
+		<!-- <module>../prolobjectlink-kbs-win32-x86</module> -->
+		<!-- <module>../prolobjectlink-kbs-win32-x86-x64</module> -->
 
 		<!-- Prolobjectlink Interface Benchmark -->
-		<module>../prolobjectlink-pib</module>
-		<module>../prolobjectlink-pib-suite</module>
-		<module>../prolobjectlink-pib-jpl7-swi7</module>
-		<module>../prolobjectlink-pib-suite-linux</module>
-		<module>../prolobjectlink-pib-suite-linux-x86</module>
-		<module>../prolobjectlink-pib-suite-linux-x86-x64</module>
-		<module>../prolobjectlink-pib-suite-macosx</module>
-		<module>../prolobjectlink-pib-suite-macosx-x86</module>
-		<module>../prolobjectlink-pib-suite-macosx-x86-x64</module>
-		<module>../prolobjectlink-pib-suite-win32</module>
-		<module>../prolobjectlink-pib-suite-win32-x86</module>
-		<module>../prolobjectlink-pib-suite-win32-x86-x64</module>
+		<!-- <module>../prolobjectlink-pib</module> -->
+		<!-- <module>../prolobjectlink-pib-suite</module> -->
+		<!-- <module>../prolobjectlink-pib-jpl7-swi7</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-linux</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-linux-x86</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-linux-x86-x64</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-macosx</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-macosx-x86</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-macosx-x86-x64</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-win32</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-win32-x86</module> -->
+		<!-- <module>../prolobjectlink-pib-suite-win32-x86-x64</module> -->
 
 	</modules>
 
