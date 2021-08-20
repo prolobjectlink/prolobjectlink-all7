@@ -119,7 +119,6 @@
 
 		<!-- Prolobjectlink Java Prolog Interface -->
 		<!-- <module>../prolobjectlink-jpi</module> -->
-		<module>../prolobjectlink-jpi-jpl7</module>
 		<module>../prolobjectlink-jpi-jpl7-swi7</module>
 
 		<!-- Prolobjectlink Java Persistence Provider -->
@@ -138,9 +137,9 @@
 		<!-- <module>../prolobjectlink-kbs-win32-x86-x64</module> -->
 
 		<!-- Prolobjectlink Interface Benchmark -->
-		<!-- <module>../prolobjectlink-pib</module> -->
-		<!-- <module>../prolobjectlink-pib-suite</module> -->
-		<!-- <module>../prolobjectlink-pib-jpl7-swi7</module> -->
+		<module>../prolobjectlink-pib-jpl7-swi7</module>
+
+		<!-- Prolobjectlink Interface Benchmark Suite -->
 		<!-- <module>../prolobjectlink-pib-suite-linux</module> -->
 		<!-- <module>../prolobjectlink-pib-suite-linux-x86</module> -->
 		<!-- <module>../prolobjectlink-pib-suite-linux-x86-x64</module> -->
@@ -408,7 +407,8 @@
 			</plugin>
 			<plugin>
 				<groupId>org.apache.rat</groupId>
-				<artifactId>apache-rat-plugin</artifactId><version>0.13</version>
+				<artifactId>apache-rat-plugin</artifactId>
+				<version>0.13</version>
 				<executions>
 					<execution>
 						<phase>verify</phase>
