@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>prolobjectlink-all7 - Checkstyle report</title>
+    <link>https://github.com/prolobjectlink/prolobjectlink-all7</link>
+    <description>prolobjectlink-all7 - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2020 - 2022 Prolobjectlink Project</copyright>
+    <item>
+      <title>File: 12,
+             Errors: 219,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#ain.java.io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7.java">ain/java/io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  49
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#ain.java.io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7Engine.java">ain/java/io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7Engine.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  76
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7Console.java">io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7Console.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7Converter.java">io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7Converter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7JavaConverter.java">io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7JavaConverter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#ain.java.io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7Console.java">ain/java/io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7Console.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  26
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#ain.java.io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7ScriptFactory.java">ain/java/io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7ScriptFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  21
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7.java">io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#ain.java.io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7JavaConverter.java">ain/java/io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7JavaConverter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  22
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7ScriptFactory.java">io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7ScriptFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#ain.java.io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7Converter.java">ain/java/io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7Converter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  25
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/prolobjectlink/prolobjectlink-all7/checkstyle.html#io.github.prolobjectlink.prolog.jpl7.swi7.SwiProlog7Engine.java">io/github/prolobjectlink/prolog/jpl7/swi7/SwiProlog7Engine.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

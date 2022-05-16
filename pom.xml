@@ -114,41 +114,12 @@
 
 	<modules>
 
-		<!-- Java Prolog Enterprise -->
-		<!-- <module>../prolobjectlink-jpe</module> -->
-
 		<!-- Prolobjectlink Java Prolog Interface -->
 		<!-- <module>../prolobjectlink-jpi</module> -->
+		<!-- <module>../prolobjectlink-jpi-ip</module> -->
+		<!-- <module>../prolobjectlink-jpi-ip-swi</module> -->
+		<!-- <module>../prolobjectlink-jpi-jpl7</module> -->
 		<module>../prolobjectlink-jpi-jpl7-swi7</module>
-
-		<!-- Prolobjectlink Java Persistence Provider -->
-		<!-- <module>../prolobjectlink-jpp</module> -->
-		<!-- <module>../prolobjectlink-jpp-jpl7-swi7</module> -->
-
-		<!-- Prolobjectlink Knowledge Base Server -->
-		<!-- <module>../prolobjectlink-kbs-linux</module> -->
-		<!-- <module>../prolobjectlink-kbs-linux-x86</module> -->
-		<!-- <module>../prolobjectlink-kbs-linux-x86-x64</module> -->
-		<!-- <module>../prolobjectlink-kbs-macosx</module> -->
-		<!-- <module>../prolobjectlink-kbs-macosx-x86</module> -->
-		<!-- <module>../prolobjectlink-kbs-macosx-x86-x64</module> -->
-		<!-- <module>../prolobjectlink-kbs-win32</module> -->
-		<!-- <module>../prolobjectlink-kbs-win32-x86</module> -->
-		<!-- <module>../prolobjectlink-kbs-win32-x86-x64</module> -->
-
-		<!-- Prolobjectlink Interface Benchmark -->
-		<module>../prolobjectlink-pib-jpl7-swi7</module>
-
-		<!-- Prolobjectlink Interface Benchmark Suite -->
-		<!-- <module>../prolobjectlink-pib-suite-linux</module> -->
-		<!-- <module>../prolobjectlink-pib-suite-linux-x86</module> -->
-		<!-- <module>../prolobjectlink-pib-suite-linux-x86-x64</module> -->
-		<!-- <module>../prolobjectlink-pib-suite-macosx</module> -->
-		<!-- <module>../prolobjectlink-pib-suite-macosx-x86</module> -->
-		<!-- <module>../prolobjectlink-pib-suite-macosx-x86-x64</module> -->
-		<!-- <module>../prolobjectlink-pib-suite-win32</module> -->
-		<!-- <module>../prolobjectlink-pib-suite-win32-x86</module> -->
-		<!-- <module>../prolobjectlink-pib-suite-win32-x86-x64</module> -->
 
 	</modules>
 
@@ -216,7 +187,9 @@
 					<acceptPomPackaging>true</acceptPomPackaging>
 					<licenseName>mit</licenseName>
 					<addJavaLicenseAfterPackage>false</addJavaLicenseAfterPackage>
-					<roots><root>src/assembly</root><root>src/changes</root>
+					<roots>
+						<root>src/assembly</root>
+						<root>src/changes</root>
 						<root>src/main</root>
 						<root>src/test</root>
 						<root>src/site</root>
