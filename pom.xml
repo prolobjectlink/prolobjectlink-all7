@@ -49,7 +49,7 @@
 
 	<ciManagement>
 		<system>GitHub Actions</system>
-		<url>https://github.com/prolobjectlink/prolobjectlink-jpi-all7/actions</url>
+		<url>https://github.com/prolobjectlink/prolobjectlink-all7/actions</url>
 	</ciManagement>
 
 	<issueManagement>
